@@ -33,10 +33,6 @@ I also work as a FreeLancer 🆓.
 
 <br />
 
-## 👩‍💻📱 My Released Applications
-<a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
-
-
 <br />
 <br />
 <br />
@@ -46,22 +42,17 @@ I also work as a FreeLancer 🆓.
 
 ### GitHub Analytics 📊
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkeskin06&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical"/>
 </a>
 
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/ibrahim_talha_demir
-[bionluk]: https://bionluk.com/peyksoftware/ekibimle-beraber-mobil-uygulama-gelistirebilirim-332677
-[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
-[medium]: https://demiribrahimtalha.medium.com/
-[gmail]: mailto:demiribrahimtalha@gmail.com
-[flutter]: https://flutter.dev/
+[instagram]: https://www.instagram.com/kursatt1925
+[linkedin]: https://www.linkedin.com/in/kursatkeskin06/
+[gmail]: mailto:mkursatkeskin@gmail.com
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
-[python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
+[github]: https://github.com/kkeskin06
+[java]: https://spring.io/
+[react]:https://reactjs.org/
