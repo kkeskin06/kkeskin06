@@ -33,12 +33,6 @@ I also work as a FreeLancer 🆓.
 
 <br />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-
 
 ### GitHub Analytics 📊
 
